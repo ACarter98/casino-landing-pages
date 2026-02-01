@@ -1,0 +1,98 @@
+# 🎯 Affiliate Links Configuration
+# Update these URLs with your actual affiliate links
+# Then run: python3 update-affiliate-links.py
+
+# ============================================
+# AUSTRALIA CASINOS
+# ============================================
+
+# Joe Fortune Casino (AU$5000 bonus)
+# Recommended for: Best Overall, Real Money, Pokies
+JOE_FORTUNE_URL: "#"
+
+# PlayAmo Casino (AU$1500 + 150 free spins)
+# Recommended for: Game Variety, Pokies
+PLAYAMO_URL: "#"
+
+# BitStarz Casino (5 BTC + 180 free spins)
+# Recommended for: Bitcoin/Crypto, Fast Withdrawals
+BITSTARZ_URL: "#"
+
+# King Billy Casino (AU$2500 + 250 free spins)
+# Recommended for: Mobile Gaming
+KING_BILLY_URL: "#"
+
+# 7Bit Casino (AU$500 + 100 free spins)
+# Recommended for: Beginners
+SEVEN_BIT_URL: "#"
+
+# ============================================
+# CANADA CASINOS
+# ============================================
+
+# Jackpot City (C$1600)
+# Recommended for: Fast Interac Withdrawals
+JACKPOT_CITY_URL: "#"
+
+# Spin Casino (C$1000 + 100 free spins)
+# Recommended for: Crypto Withdrawals
+SPIN_CASINO_URL: "#"
+
+# Ruby Fortune (C$750)
+# Recommended for: Same Day Payouts
+RUBY_FORTUNE_URL: "#"
+
+# ============================================
+# IRELAND CASINOS
+# ============================================
+
+# Paddy Power Casino
+# Recommended for: Irish Market, Revolut
+PADDY_POWER_URL: "#"
+
+# Betfair Casino
+# Recommended for: Betting Exchange
+BETFAIR_URL: "#"
+
+# 888 Casino
+# Recommended for: International Brand
+EIGHT_EIGHT_EIGHT_URL: "#"
+
+# ============================================
+# INDIA CASINOS
+# ============================================
+
+# Parimatch
+# Recommended for: UPI Payments, Cricket Betting
+PARIMATCH_URL: "#"
+
+# 10Cric
+# Recommended for: India Focus
+TEN_CRIC_URL: "#"
+
+# Pure Casino
+# Recommended for: Indian Games
+PURE_CASINO_URL: "#"
+
+# ============================================
+# INSTRUCTIONS
+# ============================================
+
+# 1. Replace "#" with your actual affiliate URLs
+# 2. Save this file
+# 3. Run: python3 update-affiliate-links.py
+# 4. All HTML files will be updated automatically
+
+# Example affiliate URL format:
+# https://casino.com/?aff=YOUR_ID
+# https://casino.com/register?ref=YOUR_CODE
+# https://tracker.com/click?pid=YOUR_PID&offer_id=123
+
+# ============================================
+# NOTES
+# ============================================
+
+# - Keep the format: KEY: "VALUE"
+# - Don't remove any keys
+# - Make sure URLs include https://
+# - Test all links before deploying

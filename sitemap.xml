@@ -88,6 +88,14 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Online Pokies Australia -->
+  <url>
+    <loc>https://acarter98.github.io/casino-landing-pages/online-pokies-australia/</loc>
+    <lastmod>2026-02-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
   <!-- Payment Methods -->
   <url>
     <loc>https://acarter98.github.io/casino-landing-pages/paypal/</loc>

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://acarter98.github.io/casino-landing-pages/sitemap.xml
+
+# Optimize crawl rate
+Crawl-delay: 1
